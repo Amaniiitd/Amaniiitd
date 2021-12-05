@@ -13,13 +13,13 @@
 
 <br />
 
-- Hi, I'm [Sahil Khan](https://sahilk.netlify.app/), I am a senior year undergraduate at IIT Kanpur majoring in Electrical Engineering. <br>
+- Hi, I'm [Aman Khan](https://sahilk.netlify.app/), I am a junior year undergraduate at IIIT Delhi majoring in Computer Science and Engineering. <br>
 - I like web development <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and dreaming up ideas and making them come true with elegant interfaces. <br>
 - I enjoy the process of learning new things and using them to build something.
 
   <img align="right" alt="GIF" src="https://github.com/Sahil-2/Sahil-2/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 📫 Feel free to drop me an [Email](mailto:Sahilk@iitk.ac.in) or connect on social media if you are interested in having a chat. :)
+- 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help. <br> <br> 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp;Internships and Projects</b>
