@@ -1,12 +1,12 @@
 ### Hey there !! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/sahil-2/">
+<a href="https://www.linkedin.com/in/amankhan24/">
   <img align="left" alt="Sahil | Linkedin" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/SAHILKHAN2312000131/">
+<a href="https://www.facebook.com/people/Aman-Khan/100043617780866/">
   <img align="left" alt="Sahil's Facebook" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
- <a href = "mailto: Sahilkhan2312000131@gmail.com">
+ <a href = "mailto: aman19015@iiitd.ac.in">
   <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="22" />
 </a>
 
