@@ -22,7 +22,7 @@
 - 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help. <br> <br> 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp;Internships and Projects</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp; Projects</b>
 
   * Fetal Health Classification <br>
   * Color Switch Game <br>
