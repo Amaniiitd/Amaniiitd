@@ -17,7 +17,7 @@
 - I like web development <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and dreaming up ideas and making them come true with elegant interfaces. <br>
 - I enjoy the process of learning new things and using them to build something.
 
-  <img align="right" alt="GIF" src="https://github.com/Sahil-2/Sahil-2/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Amaniiitd/Amaniiitd/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help. <br> <br> 
