@@ -24,11 +24,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp;Internships and Projects</b>
 
-  * Full-Stack Developer Intern: C3i Hub <br>
-  * Full-Stack Developer Intern: Exam Lounge <br>
-  * Crown Ecommerce Store <br>
-  * Smart Brain Web App<br>
-  * Zoom Teleconferencing Web App <br> <br>
+  * Fetal Health Classification <br>
+  * Color Switch Game <br>
+  * Affinity: Foster care and Adoption Management System <br>
+  * Bayou Vindicator <br>
   
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <b>&nbsp;Languages and Tools</b>
 
