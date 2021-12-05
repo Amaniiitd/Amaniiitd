@@ -20,7 +20,7 @@
 - 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
 - 💬 Ask me about anything, I would be happy to help. <br> <br> 
 
-  <img align="center" alt="GIF" src="https://github.com/Amaniiitd/Amaniiitd/blob/main/coding.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Amaniiitd/Amaniiitd/blob/main/coding.gif?raw=true" width="500" height="320" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp; Projects</b>
 
   * Fetal Health Classification <br>
