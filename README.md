@@ -24,6 +24,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp; Projects</b>
 
   * Fetal Health Classification <br>
+  * FundAisle: Blockchain-based Crowdfunding Platform <br>
   * Color Switch Game <br>
   * Affinity: Foster care and Adoption Management System <br>
   * Bayou Vindicator <br>
