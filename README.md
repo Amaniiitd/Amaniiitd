@@ -23,8 +23,9 @@
   <img align="right" alt="GIF" src="https://github.com/Amaniiitd/Amaniiitd/blob/main/coding.gif?raw=true" width="500" height="320" />
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b>&nbsp; Projects</b>
 
-  * Fetal Health Classification <br>
+  
   * FundAisle: Blockchain-based Crowdfunding Platform <br>
+  * Fetal Health Classification <br>
   * Color Switch Game <br>
   * Affinity: Foster care and Adoption Management System <br>
   * Bayou Vindicator <br>
