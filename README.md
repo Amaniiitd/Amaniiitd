@@ -1,9 +1,27 @@
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
 <h3 align="center">I am a junior year undergraduate at IIIT Delhi majoring in Computer Science and Engineering.</h3>
 
+- 🔭 I’m currently working on **Detecting Gait Abnormalities using 3D Pose Detection**
+- I like web development and dreaming up ideas and making them come true with elegant interfaces. <br>
+- I enjoy the process of learning new things and using them to build something.
+- 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
+- 💬 Ask me about anything, I would be happy to help. <br> <br> 
+
+  <img align="right" alt="GIF" src="https://github.com/Amaniiitd/Amaniiitd/blob/main/coding.gif?raw=true" width="500" height="320" />
+<h3 align="left">Projects:</h3>
+  
+  * Real-Time Yoga Pose Correction System
+  * FundAisle: Blockchain-based Crowdfunding Platform <br>
+  * Fetal Health Classification <br>
+  * Color Switch Game <br>
+  * Affinity: Foster care and Adoption Management System <br>
+  * Bayou Vindicator <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amankhan24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amankhan24/" height="30" width="40" /></a>
+<a href="https://kaggle.com/amankhaniiitd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amankhaniiitd" height="30" width="40" /></a>
+<a href="https://instagram.com/aman_0f_steel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_0f_steel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
