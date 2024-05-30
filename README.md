@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
-<h3 align="center">I am a junior year undergraduate at IIIT Delhi majoring in Computer Science and Engineering.</h3>
+<h3 align="center">I am a software engineer, currently working at Reliance Jio. I completed my B.Tech at IIIT Delhi, majoring in Computer Science and Engineering.</h3>
 
-- 🔭 I’m currently working on **Detecting Gait Abnormalities using 3D Pose Detection**
 - I like web development and dreaming up ideas and making them come true with elegant interfaces. <br>
 - I enjoy the process of learning new things and using them to build something.
 - 📫 Feel free to drop me an [Email](mailto:aman19015.ac.in) or connect on social media if you are interested in having a chat. :)
