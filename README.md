@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
-<h3 align="center">I am a software engineer, currently working at Reliance Jio. I completed my B.Tech at IIIT Delhi, majoring in Computer Science and Engineering.</h3>
+<h3 align="center">I am a software engineer, currently working at Reliance Jio.<br>I completed my B.Tech at IIIT Delhi, majoring in Computer Science and Engineering.</h3>
 
 - I like web development and dreaming up ideas and making them come true with elegant interfaces. <br>
 - I enjoy the process of learning new things and using them to build something.
